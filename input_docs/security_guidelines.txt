@@ -1,0 +1,13 @@
+Security Guidelines
+
+Incident Response:
+In the event of a suspected security breach, employees must immediately notify the Security Operations Team. The team can be contacted via the internal incident hotline or email.
+
+Data Handling:
+Sensitive customer data must be encrypted both at rest and in transit. Employees should only access data necessary for their role.
+
+Device Security:
+All company laptops must have full-disk encryption enabled. Devices should automatically lock after 5 minutes of inactivity.
+
+Third-Party Access:
+Vendors and contractors must follow the same security requirements as employees and are subject to periodic audits.

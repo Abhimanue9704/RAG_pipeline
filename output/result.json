@@ -1,0 +1,163 @@
+[
+  {
+    "query": "What is the password rotation policy?",
+    "results": [
+      {
+        "content": "Employee Policy Document\n\nAll employees must comply with company security and operational policies.\n\n\n\nPassword Policy:\n\n\nPasswords must be at least 12 characters long and include a combination of uppercase letters, lowercase letters, numbers, and symbols.\n\nPasswords must be rotated every 90 days.\n\nPassword reuse is not allowed for the last 5 passwords.\n\n\n\nRemote Work Policy:\n\n\nEmployees are permitted to work remotely up to three days per week with manager approval.\n\nRemote work requires a secure internet connection and company-approved devices.\n\n\n\nAccess Control:\nEmployees must not share login credentials under any circumstances.\n\nAccess to internal systems is granted based on role and reviewed quarterly.\n\n\n\nViolations:\nFailure to comply with company policies may result in disciplinary action, including termination.",
+        "metadata": {
+          "source": "employee_policy.txt",
+          "method": "text",
+          "doc_id": 0,
+          "chunk_id": 0,
+          "chunk_index": 0,
+          "char_count": 828,
+          "token_estimate": 207,
+          "section": "Password Policy:"
+        },
+        "rerank_score": 3.5969464778900146
+      }
+    ],
+    "total_retrieved": 10,
+    "total_reranked": 1
+  },
+  {
+    "query": "Who should be contacted in case of a security breach?",
+    "results": [
+      {
+        "content": "Security Guidelines\n\nIncident Response:\nIn the event of a suspected security breach, employees must immediately notify the Security Operations Team.\n\nThe team can be contacted via the internal incident hotline or email.\n\n\n\nData Handling:\nSensitive customer data must be encrypted both at rest and in transit.\n\nEmployees should only access data necessary for their role.\n\n\n\nDevice Security:\nAll company laptops must have full-disk encryption enabled.\n\nDevices should automatically lock after 5 minutes of inactivity.\n\n\n\nThird-Party Access:\nVendors and contractors must follow the same security requirements as employees and are subject to periodic audits.",
+        "metadata": {
+          "source": "security_guidelines.txt",
+          "method": "text",
+          "doc_id": 5,
+          "chunk_id": 20,
+          "chunk_index": 0,
+          "char_count": 654,
+          "token_estimate": 163,
+          "section": "Incident Response:"
+        },
+        "rerank_score": 6.1876678466796875
+      }
+    ],
+    "total_retrieved": 10,
+    "total_reranked": 1
+  },
+  {
+    "query": "Are employees allowed to work remotely?",
+    "results": [
+      {
+        "content": "Employee Policy Document\n\nAll employees must comply with company security and operational policies.\n\n\n\nPassword Policy:\n\n\nPasswords must be at least 12 characters long and include a combination of uppercase letters, lowercase letters, numbers, and symbols.\n\nPasswords must be rotated every 90 days.\n\nPassword reuse is not allowed for the last 5 passwords.\n\n\n\nRemote Work Policy:\n\n\nEmployees are permitted to work remotely up to three days per week with manager approval.\n\nRemote work requires a secure internet connection and company-approved devices.\n\n\n\nAccess Control:\nEmployees must not share login credentials under any circumstances.\n\nAccess to internal systems is granted based on role and reviewed quarterly.\n\n\n\nViolations:\nFailure to comply with company policies may result in disciplinary action, including termination.",
+        "metadata": {
+          "source": "employee_policy.txt",
+          "method": "text",
+          "doc_id": 0,
+          "chunk_id": 0,
+          "chunk_index": 0,
+          "char_count": 828,
+          "token_estimate": 207,
+          "section": "Password Policy:"
+        },
+        "rerank_score": 8.545007705688477
+      },
+      {
+        "content": "Security Guidelines\n\nIncident Response:\nIn the event of a suspected security breach, employees must immediately notify the Security Operations Team.\n\nThe team can be contacted via the internal incident hotline or email.\n\n\n\nData Handling:\nSensitive customer data must be encrypted both at rest and in transit.\n\nEmployees should only access data necessary for their role.\n\n\n\nDevice Security:\nAll company laptops must have full-disk encryption enabled.\n\nDevices should automatically lock after 5 minutes of inactivity.\n\n\n\nThird-Party Access:\nVendors and contractors must follow the same security requirements as employees and are subject to periodic audits.",
+        "metadata": {
+          "source": "security_guidelines.txt",
+          "method": "text",
+          "doc_id": 5,
+          "chunk_id": 20,
+          "chunk_index": 0,
+          "char_count": 654,
+          "token_estimate": 163,
+          "section": "Incident Response:"
+        },
+        "rerank_score": -4.694723606109619
+      }
+    ],
+    "total_retrieved": 10,
+    "total_reranked": 2
+  },
+  {
+    "query": "How do new employees request system access?",
+    "results": [
+      {
+        "content": "Onboarding FAQ\n\nWhat equipment will I receive?\n\n\nNew employees receive a company laptop, charger, and any role-specific peripherals.\n\n\n\nWho do I contact for IT support?\n\n\nIT support can be reached through the internal helpdesk portal or by emailing the IT support team.\n\n\n\nHow do I request system access?\nSystem access requests must be submitted through the access management system and approved by your manager.\n\n\n\nWhat training is mandatory?\n\n\nAll employees must complete security awareness training within the first 30 days of employment.",
+        "metadata": {
+          "source": "onboarding_faq.txt",
+          "method": "text",
+          "doc_id": 1,
+          "chunk_id": 1,
+          "chunk_index": 0,
+          "char_count": 541,
+          "token_estimate": 135,
+          "section": "general"
+        },
+        "rerank_score": 9.15948486328125
+      },
+      {
+        "content": "Employee Policy Document\n\nAll employees must comply with company security and operational policies.\n\n\n\nPassword Policy:\n\n\nPasswords must be at least 12 characters long and include a combination of uppercase letters, lowercase letters, numbers, and symbols.\n\nPasswords must be rotated every 90 days.\n\nPassword reuse is not allowed for the last 5 passwords.\n\n\n\nRemote Work Policy:\n\n\nEmployees are permitted to work remotely up to three days per week with manager approval.\n\nRemote work requires a secure internet connection and company-approved devices.\n\n\n\nAccess Control:\nEmployees must not share login credentials under any circumstances.\n\nAccess to internal systems is granted based on role and reviewed quarterly.\n\n\n\nViolations:\nFailure to comply with company policies may result in disciplinary action, including termination.",
+        "metadata": {
+          "source": "employee_policy.txt",
+          "method": "text",
+          "doc_id": 0,
+          "chunk_id": 0,
+          "chunk_index": 0,
+          "char_count": 828,
+          "token_estimate": 207,
+          "section": "Password Policy:"
+        },
+        "rerank_score": -2.451528310775757
+      },
+      {
+        "content": "Security Guidelines\n\nIncident Response:\nIn the event of a suspected security breach, employees must immediately notify the Security Operations Team.\n\nThe team can be contacted via the internal incident hotline or email.\n\n\n\nData Handling:\nSensitive customer data must be encrypted both at rest and in transit.\n\nEmployees should only access data necessary for their role.\n\n\n\nDevice Security:\nAll company laptops must have full-disk encryption enabled.\n\nDevices should automatically lock after 5 minutes of inactivity.\n\n\n\nThird-Party Access:\nVendors and contractors must follow the same security requirements as employees and are subject to periodic audits.",
+        "metadata": {
+          "source": "security_guidelines.txt",
+          "method": "text",
+          "doc_id": 5,
+          "chunk_id": 20,
+          "chunk_index": 0,
+          "char_count": 654,
+          "token_estimate": 163,
+          "section": "Incident Response:"
+        },
+        "rerank_score": -4.104584693908691
+      }
+    ],
+    "total_retrieved": 10,
+    "total_reranked": 3
+  },
+  {
+    "query": "What happens if an employee violates company policies?",
+    "results": [
+      {
+        "content": "Employee Policy Document\n\nAll employees must comply with company security and operational policies.\n\n\n\nPassword Policy:\n\n\nPasswords must be at least 12 characters long and include a combination of uppercase letters, lowercase letters, numbers, and symbols.\n\nPasswords must be rotated every 90 days.\n\nPassword reuse is not allowed for the last 5 passwords.\n\n\n\nRemote Work Policy:\n\n\nEmployees are permitted to work remotely up to three days per week with manager approval.\n\nRemote work requires a secure internet connection and company-approved devices.\n\n\n\nAccess Control:\nEmployees must not share login credentials under any circumstances.\n\nAccess to internal systems is granted based on role and reviewed quarterly.\n\n\n\nViolations:\nFailure to comply with company policies may result in disciplinary action, including termination.",
+        "metadata": {
+          "source": "employee_policy.txt",
+          "method": "text",
+          "doc_id": 0,
+          "chunk_id": 0,
+          "chunk_index": 0,
+          "char_count": 828,
+          "token_estimate": 207,
+          "section": "Password Policy:"
+        },
+        "rerank_score": 3.594773292541504
+      },
+      {
+        "content": "Security Guidelines\n\nIncident Response:\nIn the event of a suspected security breach, employees must immediately notify the Security Operations Team.\n\nThe team can be contacted via the internal incident hotline or email.\n\n\n\nData Handling:\nSensitive customer data must be encrypted both at rest and in transit.\n\nEmployees should only access data necessary for their role.\n\n\n\nDevice Security:\nAll company laptops must have full-disk encryption enabled.\n\nDevices should automatically lock after 5 minutes of inactivity.\n\n\n\nThird-Party Access:\nVendors and contractors must follow the same security requirements as employees and are subject to periodic audits.",
+        "metadata": {
+          "source": "security_guidelines.txt",
+          "method": "text",
+          "doc_id": 5,
+          "chunk_id": 20,
+          "chunk_index": 0,
+          "char_count": 654,
+          "token_estimate": 163,
+          "section": "Incident Response:"
+        },
+        "rerank_score": -4.26085090637207
+      }
+    ],
+    "total_retrieved": 10,
+    "total_reranked": 2
+  }
+]

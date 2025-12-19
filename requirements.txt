@@ -1,0 +1,11 @@
+langchain>=0.1.0
+langchain-community
+langchain-openai
+faiss-cpu
+tiktoken
+python-dotenv
+argparse
+pdfplumber
+pytesseract
+pillow
+pdf2image
